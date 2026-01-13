@@ -1,0 +1,10 @@
+# QR Code Placeholder
+
+Place your actual QR code image (qr.png) in this public folder.
+
+The QR code should contain UPI payment details:
+- UPI ID: bambooyardcafe@paytm
+- Merchant Name: Bamboo Yard Cafe
+
+You can generate a QR code at: https://www.qr-code-generator.com/
+Or use any UPI QR generator with your payment details.
